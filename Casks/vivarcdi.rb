@@ -1,6 +1,6 @@
 cask "vivarcdi" do
-  version "0.66.0"
-  sha256 "a6a6f3488ca91269748efdcdbc2d0109470501449de9ac9e1a467d9b5b58a522"
+  version "0.67.0"
+  sha256 "59c958f5f1f5e00820b3f9a991bd46c0d3648a14241ec069a9200f575d9bd012"
 
   url "https://github.com/valsar6/VivArcDi/releases/download/v#{version}/VivArcDi-#{version}.dmg"
   name "VivArcDi"
